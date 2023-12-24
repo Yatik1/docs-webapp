@@ -7,3 +7,7 @@
 *{
 font-family: 'Questrial', sans-serif;
 }
+
+::selection{
+    color: rgb(71, 47, 230);
+}
