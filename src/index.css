@@ -5,9 +5,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
 
 *{
-font-family: 'Questrial', sans-serif;
+    font-family: 'Questrial', sans-serif;
 }
 
 ::selection{
-    color: rgb(71, 47, 230);
+    color: slateblue;
 }
