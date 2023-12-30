@@ -36,6 +36,6 @@ function Card({data , reference}) {
         </div>
     </motion.div>
   )
-}
+}   
 
 export default Card
